@@ -1,15 +1,15 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('fonts/icomoon.eot?-2cross');
-	src:url('fonts/icomoon.eot?#iefix-2cross') format('embedded-opentype'),
-		url('fonts/icomoon.ttf?-2cross') format('truetype'),
-		url('fonts/icomoon.woff?-2cross') format('woff'),
-		url('fonts/icomoon.svg?-2cross#icomoon') format('svg');
+	src:url('fonts/icomoon.eot?ia66r1');
+	src:url('fonts/icomoon.eot?#iefixia66r1') format('embedded-opentype'),
+		url('fonts/icomoon.ttf?ia66r1') format('truetype'),
+		url('fonts/icomoon.woff?ia66r1') format('woff'),
+		url('fonts/icomoon.svg?ia66r1#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
-[class^="icon-"], [class*=" icon-"] {
+[class^="im-"], [class*=" im-"] {
 	font-family: 'icomoon';
 	speak: none;
 	font-style: normal;
@@ -23,18 +23,18 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.icon-home:before {
+.im-home:before {
 	content: "\e603";
 }
-.icon-flag:before {
+.im-flag:before {
 	content: "\e602";
 }
-.icon-layers:before {
+.im-layers:before {
 	content: "\e604";
 }
-.icon-dots-horizontal:before {
+.im-dots-horizontal:before {
 	content: "\e601";
 }
-.icon-menu-dots:before {
+.im-menu-dots:before {
 	content: "\e600";
 }
