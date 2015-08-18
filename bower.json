@@ -2,7 +2,7 @@
     "name": "hb3-icons",
     "version": "1.0.0",
     "main": [
-        "feather.css",
+        "style.css",
 		"fonts/icomoon.eot",
 		"fonts/icomoon.svg",
 		"fonts/icomoon.ttf",
