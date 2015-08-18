@@ -13,13 +13,13 @@
 			},
 			"attrs": [],
 			"properties": {
-				"order": 8,
+				"order": 13,
 				"id": 0,
 				"prevSize": 32,
 				"code": 58883,
 				"name": "home"
 			},
-			"setIdx": 0,
+			"setIdx": 1,
 			"setId": 3,
 			"iconIdx": 0
 		},
@@ -48,13 +48,13 @@
 				}
 			],
 			"properties": {
-				"order": 9,
+				"order": 11,
 				"id": 2,
 				"prevSize": 32,
 				"code": 58882,
 				"name": "flag"
 			},
-			"setIdx": 1,
+			"setIdx": 2,
 			"setId": 2,
 			"iconIdx": 0
 		},
@@ -82,13 +82,13 @@
 				}
 			],
 			"properties": {
-				"order": 10,
+				"order": 12,
 				"id": 0,
 				"prevSize": 32,
 				"code": 58884,
 				"name": "layers"
 			},
-			"setIdx": 1,
+			"setIdx": 2,
 			"setId": 2,
 			"iconIdx": 1
 		},
@@ -111,7 +111,7 @@
 				"code": 58881,
 				"name": "dots-horizontal"
 			},
-			"setIdx": 2,
+			"setIdx": 3,
 			"setId": 1,
 			"iconIdx": 0
 		},
@@ -146,7 +146,7 @@
 				"code": 58880,
 				"name": "menu-dots"
 			},
-			"setIdx": 3,
+			"setIdx": 4,
 			"setId": 0,
 			"iconIdx": 0
 		}
