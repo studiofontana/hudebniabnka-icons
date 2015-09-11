@@ -23,17 +23,20 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.im-home:before {
+.im-arrow-down:before {
+	content: "\e601";
+}
+.im-arrow-up:before {
 	content: "\e603";
+}
+.im-pencil:before {
+	content: "\e605";
 }
 .im-flag:before {
 	content: "\e602";
 }
 .im-layers:before {
 	content: "\e604";
-}
-.im-dots-horizontal:before {
-	content: "\e601";
 }
 .im-menu-dots:before {
 	content: "\e600";
