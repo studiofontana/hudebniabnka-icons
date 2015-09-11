@@ -26,6 +26,9 @@
 .im-paper:before {
 	content: "\e607";
 }
+.im-remove:before {
+	content: "\e608";
+}
 .im-cloud:before {
 	content: "\e605";
 }
