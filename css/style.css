@@ -23,6 +23,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.im-paper:before {
+	content: "\e607";
+}
 .im-cloud:before {
 	content: "\e605";
 }
