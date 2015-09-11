@@ -23,6 +23,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.im-cloud:before {
+	content: "\e605";
+}
 .im-arrow-down:before {
 	content: "\e601";
 }
@@ -30,7 +33,7 @@
 	content: "\e603";
 }
 .im-pencil:before {
-	content: "\e605";
+	content: "\e606";
 }
 .im-flag:before {
 	content: "\e602";
