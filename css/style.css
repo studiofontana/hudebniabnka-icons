@@ -23,6 +23,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.im-arrow-left:before {
+	content: "\e60a";
+}
 .im-home:before {
 	content: "\e609";
 }
