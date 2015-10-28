@@ -23,6 +23,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.im-cog:before {
+	content: "\e902";
+}
 .im-star:before {
 	content: "\e900";
 }
