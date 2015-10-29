@@ -23,6 +23,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.im-paper:before {
+	content: "\e903";
+}
 .im-cog:before {
 	content: "\e902";
 }
@@ -37,9 +40,6 @@
 }
 .im-home:before {
 	content: "\e609";
-}
-.im-paper:before {
-	content: "\e607";
 }
 .im-remove:before {
 	content: "\e608";
