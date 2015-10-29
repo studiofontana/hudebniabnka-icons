@@ -23,6 +23,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.im-user:before {
+	content: "\e904";
+}
 .im-paper:before {
 	content: "\e903";
 }
