@@ -23,6 +23,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.im-guitar:before {
+	content: "\e905";
+}
 .im-user:before {
 	content: "\e904";
 }
