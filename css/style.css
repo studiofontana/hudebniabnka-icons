@@ -1,16 +1,17 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('../fonts/icomoon.eot?-lm737t');
-	src:url('../fonts/icomoon.eot?#iefix-lm737t') format('embedded-opentype'),
-		url('../fonts/icomoon.ttf?-lm737t') format('truetype'),
-		url('../fonts/icomoon.woff?-lm737t') format('woff'),
-		url('../fonts/icomoon.svg?-lm737t#icomoon') format('svg');
+	src:url('../fonts/icomoon.eot?-28zuta');
+	src:url('../fonts/icomoon.eot?#iefix-28zuta') format('embedded-opentype'),
+		url('../fonts/icomoon.ttf?-28zuta') format('truetype'),
+		url('../fonts/icomoon.woff?-28zuta') format('woff'),
+		url('../fonts/icomoon.svg?-28zuta#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
 
 [class^="im-"], [class*=" im-"] {
-	font-family: 'icomoon';
+	/* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'icomoon' !important;
 	speak: none;
 	font-style: normal;
 	font-weight: normal;
@@ -23,6 +24,9 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
+.im-file-pdf-o:before {
+    content: "\e906";
+}
 .im-guitar:before {
 	content: "\e905";
 }
