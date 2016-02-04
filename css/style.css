@@ -1,10 +1,10 @@
 @font-face {
 	font-family: 'icomoon';
-	src:url('../fonts/icomoon.eot?-x83dol');
-	src:url('../fonts/icomoon.eot?#iefix-x83dol') format('embedded-opentype'),
-		url('../fonts/icomoon.ttf?-x83dol') format('truetype'),
-		url('../fonts/icomoon.woff?-x83dol') format('woff'),
-		url('../fonts/icomoon.svg?-x83dol#icomoon') format('svg');
+	src:url('../fonts/icomoon.eot?-eaw9k3');
+	src:url('../fonts/icomoon.eot?#iefix-eaw9k3') format('embedded-opentype'),
+		url('../fonts/icomoon.ttf?-eaw9k3') format('truetype'),
+		url('../fonts/icomoon.woff?-eaw9k3') format('woff'),
+		url('../fonts/icomoon.svg?-eaw9k3#icomoon') format('svg');
 	font-weight: normal;
 	font-style: normal;
 }
@@ -24,17 +24,26 @@
 	-moz-osx-font-smoothing: grayscale;
 }
 
-.im-product-page-play:before {
-    content: "\e90a";
-}
-.im-product-page-cloud:before {
+.im-product-page-clock:before {
     content: "\e907";
 }
-.im-product-page-controls:before {
+.im-product-page-cloud:before {
     content: "\e908";
 }
-.im-product-page-note:before {
+.im-product-page-controls:before {
     content: "\e909";
+}
+.im-product-page-ear:before {
+    content: "\e90a";
+}
+.im-product-page-note:before {
+    content: "\e90b";
+}
+.im-product-page-play:before {
+    content: "\e90c";
+}
+.im-product-page-star:before {
+    content: "\e90d";
 }
 .im-file-pdf-o:before {
     content: "\e906";
