@@ -1,102 +1,108 @@
 @font-face {
-    font-family: 'icomoon';
-    src:    url('../fonts/icomoon.eot?g7rrfe');
-    src:    url('../fonts/icomoon.eot?g7rrfe#iefix') format('embedded-opentype'),
-        url('../fonts/icomoon.ttf?g7rrfe') format('truetype'),
-        url('../fonts/icomoon.woff?g7rrfe') format('woff'),
-        url('../fonts/icomoon.svg?g7rrfe#icomoon') format('svg');
-    font-weight: normal;
-    font-style: normal;
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?64ryek');
+  src:  url('../fonts/icomoon.eot?64ryek#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?64ryek') format('truetype'),
+    url('../fonts/icomoon.woff?64ryek') format('woff'),
+    url('../fonts/icomoon.svg?64ryek#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
 }
 
 [class^="im-"], [class*=" im-"] {
-    /* use !important to prevent issues with browser extensions that change fonts */
-    font-family: 'icomoon' !important;
-    speak: none;
-    font-style: normal;
-    font-weight: normal;
-    font-variant: normal;
-    text-transform: none;
-    line-height: 1;
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
 
-    /* Better Font Rendering =========== */
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: grayscale;
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
 }
 
+.im-guitar2:before {
+  content: "\e90f";
+}
+.im-note:before {
+  content: "\e910";
+}
 .im-paper-stack:before {
-    content: "\e90e";
+  content: "\e90e";
 }
 .im-product-page-clock:before {
-    content: "\e907";
+  content: "\e907";
 }
 .im-product-page-cloud:before {
-    content: "\e908";
+  content: "\e908";
 }
 .im-product-page-controls:before {
-    content: "\e909";
+  content: "\e909";
 }
 .im-product-page-ear:before {
-    content: "\e90a";
+  content: "\e90a";
 }
 .im-product-page-note:before {
-    content: "\e90b";
+  content: "\e90b";
 }
 .im-product-page-play:before {
-    content: "\e90c";
+  content: "\e90c";
 }
 .im-product-page-star:before {
-    content: "\e90d";
+  content: "\e90d";
 }
 .im-file-pdf-o:before {
-    content: "\e906";
+  content: "\e906";
 }
 .im-guitar:before {
-    content: "\e905";
+  content: "\e905";
 }
 .im-user:before {
-    content: "\e904";
+  content: "\e904";
 }
 .im-paper:before {
-    content: "\e903";
+  content: "\e903";
 }
 .im-cog:before {
-    content: "\e902";
+  content: "\e902";
 }
 .im-star:before {
-    content: "\e900";
+  content: "\e900";
 }
 .im-star-light:before {
-    content: "\e901";
+  content: "\e901";
 }
 .im-arrow-left:before {
-    content: "\e60a";
+  content: "\e60a";
 }
 .im-home:before {
-    content: "\e609";
+  content: "\e609";
 }
 .im-remove:before {
-    content: "\e608";
+  content: "\e608";
 }
 .im-cloud:before {
-    content: "\e605";
+  content: "\e605";
 }
 .im-arrow-down:before {
-    content: "\e601";
+  content: "\e601";
 }
 .im-arrow-up:before {
-    content: "\e603";
+  content: "\e603";
 }
 .im-pencil:before {
-    content: "\e606";
+  content: "\e606";
 }
 .im-flag:before {
-    content: "\e602";
+  content: "\e602";
 }
 .im-layers:before {
-    content: "\e604";
+  content: "\e604";
 }
 .im-menu-dots:before {
-    content: "\e600";
+  content: "\e600";
 }
 
