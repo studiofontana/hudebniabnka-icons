@@ -24,6 +24,9 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.im-waveform:before {
+  content: "\e912";
+}
 .im-zoom:before {
   content: "\e911";
 }
