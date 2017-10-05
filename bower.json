@@ -1,6 +1,6 @@
 {
     "name": "hb3-icons",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "main": [
         "css/style.css",
 		"fonts/icomoon.eot",
